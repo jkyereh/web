@@ -1449,7 +1449,7 @@ a.move-top {
 }
 
 .banner-view {
-    background: url(../images/banner1.jpg) no-repeat center;
+    background: url(../images/banner11.jpg) no-repeat center;
     background-size: cover;
     min-height: 850px;
     position: relative;
@@ -1459,12 +1459,12 @@ a.move-top {
 }
 
 .banner-top1 {
-    background: url(../images/banner2.jpg) no-repeat center;
+    background: url(../images/banner22.jpg) no-repeat center;
     background-size: cover;
 }
 
 .banner-top2 {
-    background: url(../images/banner3.jpg) no-repeat center;
+    background: url(../images/banner33.jpg) no-repeat center;
     background-size: cover;
 }
 
